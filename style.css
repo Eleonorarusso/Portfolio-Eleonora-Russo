@@ -1,0 +1,153 @@
+body {
+  background-color: rgb(0, 0, 0);
+  max-width: 100%;
+  color: white;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+a:visited {
+  color: rgba(255, 255, 255, 0.837);
+}
+
+
+#first {
+  color: rgba(255, 255, 255, 0.666);
+}
+
+#corpo {
+  margin: 10px;
+  border-top: 1px solid white;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+#Fdestra {
+  float: right;
+}
+
+#Fsinistra {
+  float: left;
+}
+
+#firstImg {
+  text-align: center;
+}
+
+#immagineLupo {
+
+  width: 70%;
+}
+
+/* ................................................. */
+
+.underScore {
+  border-bottom: 1px solid white;
+  width: 100px;
+  text-align: right;
+}
+
+
+.imgR {
+  width: 50%;
+  max-height: 100px;
+  border: 1px solid white;
+  text-align: center;
+  float: right;
+  background-color: black;
+
+}
+
+.row {
+  height: 120px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+
+
+}
+
+.imgInline {
+  height: 100px;
+
+}
+
+.textL {
+  float: left;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  padding-left: 50px;
+}
+
+.conGrande {
+  width: 100%;
+}
+
+
+#immagineG {
+  width: 60%;
+  float: right;
+}
+
+
+#tred {
+  color: aqua;
+  padding-left: 30px;
+}
+
+#tredI {
+  color: rgba(249, 249, 86, 0.696);
+}
+
+P {
+  float: left;
+}
+
+
+.tipo {
+  width: 80%;
+  border: 1px solid white;
+  margin-left: 40px;
+  margin-bottom: 30px;
+}
+
+.rebecca {
+  width: 80%;
+  border: 1px solid white;
+  margin-left: 40px;
+}
+
+#paragrafo {
+  margin-left: 50px;
+  color: rgba(138, 227, 252, 0.751);
+}
+
+
+#paragrafoi {
+  margin-left: 40px;
+  color: rgba(255, 255, 255, 0.751);
+}
+
+
+.illu {
+
+  width: 80%;
+  border: 1px solid white;
+  margin-left: 40px;
+  margin-bottom: 0px;
+}
